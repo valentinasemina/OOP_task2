@@ -1,0 +1,10 @@
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\Semina_seminar1.csprojAssemblyReference.cache
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\Semina_seminar1.csproj.GenerateResource.cache
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\Semina_seminar1.csproj.CoreCompileInputs.cache
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Semina_seminar1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Semina_seminar1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Semina_seminar1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Semina_seminar1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
